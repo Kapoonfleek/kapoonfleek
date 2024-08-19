@@ -3,19 +3,23 @@
 
 #### 🌱 Tools, Project & Socials
 ![](https://img.shields.io/badge/Skript-blue)
-![](https://tokei.rs/b1/github/kapoonfleek/ec)
+[![Lines of code](https://hitsofcode.com/github/kapoonfleek/ec/?branch=main&label=Lines)](https://hitsofcode.com/github/kapoonfleek/ec/view/json)
 ![](https://komarev.com/ghpvc/?username=Kapo&color=blue)
 ![GitHub commits](https://img.shields.io/github/commit-activity/t/kapoonfleek/ec?label=Commits)
 ![](https://img.shields.io/youtube/channel/subscribers/UCnJjcYRog1LcnIsxrk-dnsQ)
 ![](https://img.shields.io/youtube/channel/views/UCnJjcYRog1LcnIsxrk-dnsQ)
 
-
-<?php
+```C#
 
 namespace Kapo
 {
-  Public class
+  Public class AboutMe
+  {
+    string xd = "xd";
+  }
+}
 
+```
 <!--
 **Kapoonfleek/kapoonfleek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
