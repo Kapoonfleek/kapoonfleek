@@ -3,7 +3,7 @@
 
 #### 🌱 Tools, Project & Socials
 ![](https://img.shields.io/badge/Skript-blue)
-![](https://tokei.rs/b1/github/kapoonfleek/kapoonfleek)
+![](https://tokei.rs/b1/github/kapoonfleek/ec)
 ![](https://komarev.com/ghpvc/?username=Kapo&color=blue)
 ![GitHub commits](https://img.shields.io/github/commit-activity/t/kapoonfleek/ec?label=Commits)
 ![](https://img.shields.io/youtube/channel/subscribers/UCnJjcYRog1LcnIsxrk-dnsQ)
