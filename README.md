@@ -3,7 +3,7 @@
 
 #### 🌱 Tools, Project & Socials
 ![](https://img.shields.io/badge/Skript-blue)
-[![Lines of code](https://hitsofcode.com/github/kapoonfleek/ec/?branch=main&label=Lines)](https://hitsofcode.com/github/kapoonfleek/ec/view/json)
+[![Lines of code](https://hitsofcode.com/github/kapoonfleek/ec?branch=8.3.0-temp&label=Lines)]
 ![](https://komarev.com/ghpvc/?username=Kapo&color=blue)
 ![GitHub commits](https://img.shields.io/github/commit-activity/t/kapoonfleek/ec?label=Commits)
 ![](https://img.shields.io/youtube/channel/subscribers/UCnJjcYRog1LcnIsxrk-dnsQ)
